@@ -11,5 +11,5 @@ This is the home page of my website, powered by [GitHub Pages](https://pages.git
 
 This is a sample Jekyll site using the Cayman theme. You can navigate through the pages using the links below.
 
-- [About](/about/)
+- [About](/Compositions/about/)
 - [Projects](/projects/)

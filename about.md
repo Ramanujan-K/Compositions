@@ -5,4 +5,4 @@ permalink: /about/
 
 #About Me
 
-This is a test aboujt me page. 
+This is a test about me page. 

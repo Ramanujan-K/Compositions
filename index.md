@@ -13,5 +13,4 @@ title: Compositions
 [About Me](/Compositions/about/)
 
 
-## About This Site
-This is a Jekyll site using the Cayman theme. 
+<small> <b>About: </b> This is a Jekyll site using the Cayman theme. </small>

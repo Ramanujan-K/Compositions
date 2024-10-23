@@ -5,16 +5,12 @@ title: Compositions
 
 # Welcome to My Site
 
-This is the home page of my website, powered by [GitHub Pages](https://pages.github.com) using the Cayman theme.
+Here, you can see some of my classical music compositions. 
 
 ## Compositions
 - [Capriccio Danza del Fuoco](Cappricio.md)
 
+
 ## About This Site
-
-
-
-This is a sample Jekyll site using the Cayman theme. You can navigate through the pages using the links below.
-
-- [About](/Compositions/about/)
-- [Projects](/projects/)
+This is a Jekyll site using the Cayman theme. 
+- [About Me](/Compositions/about/)

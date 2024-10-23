@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Compositions
 ---
 
 # Welcome to My Site

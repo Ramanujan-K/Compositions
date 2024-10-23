@@ -8,7 +8,7 @@ title: Home
 This is the home page of my website, powered by [GitHub Pages](https://pages.github.com) using the Cayman theme.
 
 ## Compositions
-- [Capriccio Danza del Fuoco](/Compositions/Cappricio.md)
+- [Capriccio Danza del Fuoco](Cappricio.md)
 
 ## About This Site
 

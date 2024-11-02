@@ -5,11 +5,10 @@ title: Compositions Portfolio
 
 
 ## Completed Works (Order of creation)
-- [Rhapsody in D minor for Strings]
+- [Rhapsody in D minor for Strings - Vivace and Moderato]
 - [Prelude in A minor](PreludeAminor.md)
 - [Evaporated Solution - Non-Classical](EvaporatedSolution.md)
 - [Capriccio Danza del Fuoco](Cappricio.md)
-- [Allegretto in D minor]
 - [Waltz no.1 Duet for Piano and Violin]
 - [Melodius Monk - Non-Classical](Melodius.md)
 - [Over and Under The River Styx]

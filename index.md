@@ -6,7 +6,7 @@ title: Compositions Portfolio
 
 ## Completed Works (Order of creation)
 - [Rhapsody in D minor for Strings]
-- [Prelude in A minor]
+- [Prelude in A minor](PreludeAminor.md)
 - [Evaporated Solution - Non-Classical]
 - [Capriccio Danza del Fuoco](Cappricio.md)
 - [Allegretto in D minor]

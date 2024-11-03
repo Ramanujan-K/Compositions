@@ -11,7 +11,7 @@ title: Compositions Portfolio
 - [Capriccio Danza del Fuoco](Cappricio.md)
 - [Waltz no.1 Duet for Piano and Violin](Waltzno1duet.md)
 - [Melodius Monk - Non-Classical](Melodius.md)
-- [Over and Under The River Styx]
+- [Over and Under The River Styx](RiverStyx.md)
 ## Extra Unfinished Works (Order of Progress)
 - [Violin Concerto no.2 in G Major]
 - [Piano Concerto no.1 in F# Minor]

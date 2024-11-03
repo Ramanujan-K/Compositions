@@ -9,7 +9,7 @@ title: Compositions Portfolio
 - [Prelude in A minor](PreludeAminor.md)
 - [Evaporated Solution - Non-Classical](EvaporatedSolution.md)
 - [Capriccio Danza del Fuoco](Cappricio.md)
-- [Waltz no.1 Duet for Piano and Violin]
+- [Waltz no.1 Duet for Piano and Violin](Waltzno1duet.md)
 - [Melodius Monk - Non-Classical](Melodius.md)
 - [Over and Under The River Styx]
 ## Extra Unfinished Works (Order of Progress)

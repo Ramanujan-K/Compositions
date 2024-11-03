@@ -4,7 +4,7 @@ title: Compositions Portfolio
 ---
 
 
-## Completed Works (Order of creation)
+## Completed Works (Order of Creation)
 - [Rhapsody in D minor for Strings - Vivace and Moderato](StringsRhapsodyDminor.md)
 - [Prelude in A minor](PreludeAminor.md)
 - [Evaporated Solution - Non-Classical](EvaporatedSolution.md)

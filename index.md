@@ -5,6 +5,16 @@ title: Compositions Portfolio
 
 
 ## Completed Works (Order of Creation)
+- [Sonata no.1 for Violin and Piano](Sonata1)
+- [Viola Concerto in D major Mvt I: Andantino](ViolaConcertoMv1.md)
+- [Dies Irae - Requiem for Strings in C minor](DiesIrae.md)
+- [Lament - Requiem for Strings in C minor](Lament.md)
+- [Overture to "A Descent into the Maelstrom"](MaelstromOverture.md)
+- [Fantasy no.1 for Solo Piano](Fantasy1.md)
+- [Etude for Harpsichord](Harpsichordetude)
+- [Scherzo for Piano](Scherzo.md)
+- [String Quartet no.1 in Bb Minor](StringQuartet1.md)
+- [Gambit - Encore for 52 Instruments](GambitEncore.md)
 - [Rhapsody in D minor for Strings - Vivace and Moderato](StringsRhapsodyDminor.md)
 - [Prelude in A minor](PreludeAminor.md)
 - [Evaporated Solution - Non-Classical](EvaporatedSolution.md)
@@ -13,12 +23,15 @@ title: Compositions Portfolio
 - [Melodius Monk - Non-Classical](Melodius.md)
 - [Over and Under The River Styx](RiverStyx.md)
 ## Extra Unfinished Works (Order of Progress)
-- [Violin Concerto no.2 in G Major]
-- [Piano Concerto no.1 in F# Minor]
-- [Violin Concerto no.1 in G Major]
-- [Symphonie Reverie]
-- [Piano Concerto no.2]
-- [Unnamed big band score]
+- [Piano Concerto no.2](PianoConcerto2.md)
+- [Violin Concerto no.2 in G Major](Vlnconcerto2.md)
+- [Piano Concerto no.1 in F# Minor](Pianoconcerto1.md)
+- [Violin Concerto no.1 in G Major](Vlnconcerto1.md)
+- [Viola Concerto in D Major Mvt II: Adagio Sentimentale](ViolaConcertoMv2.md)
+- [Violin Concerto no.3](Vlnconcerto3.md)
+- [Lake Concerto for Trombone](LakeConcertoTrombone.md)
+- [Orchestra Suite no.1 Reverie](SuiteReverie.md)
+
 
 
 

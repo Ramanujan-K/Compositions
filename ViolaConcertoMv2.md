@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Viola Concerto Mvt II: Adagio Sentimentale
+title: Viola Concerto Mvt II Adagio Sentimentale
 ---
 
 # Viola Concerto Mvt II: Adagio Sentimentale

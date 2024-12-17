@@ -5,13 +5,13 @@ title: Compositions Portfolio
 
 
 ## Completed Works (Order of Creation)
-- [Sonata no.1 for Violin and Piano](Sonata1)
+- [Sonata no.1 for Violin and Piano](Sonata1.md)
 - [Viola Concerto in D major Mvt I: Andantino](ViolaConcertoMv1.md)
 - [Dies Irae - Requiem for Strings in C minor](DiesIrae.md)
 - [Lament - Requiem for Strings in C minor](Lament.md)
 - [Overture to "A Descent into the Maelstrom"](MaelstromOverture.md)
 - [Fantasy no.1 for Solo Piano](Fantasy1.md)
-- [Etude for Harpsichord](Harpsichordetude)
+- [Etude for Harpsichord](Harpsichordetude.md)
 - [Scherzo for Piano](Scherzo.md)
 - [String Quartet no.1 in Bb Minor](StringQuartet1.md)
 - [Gambit - Encore for 52 Instruments](GambitEncore.md)

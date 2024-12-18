@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Viola Concerto Mvt II Adagio Sentimentale
+title: Viola Concerto in D Major Mvt II Adagio Sentimentale
 ---
 
-# Viola Concerto Mvt II: Adagio Sentimentale
+# Viola Concerto in D Major Mvt II: Adagio Sentimentale
 
 <small>The second movement to the viola concerto in D Major is slower, more sentimental, and emotional. The movement contrasts the powerful imposing and mischievousness found within the first.</small>
 

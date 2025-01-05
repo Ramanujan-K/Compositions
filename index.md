@@ -23,14 +23,14 @@ title: Compositions Portfolio
 - [Melodius Monk - Non-Classical](Melodius.md)
 - [Over and Under The River Styx](RiverStyx.md)
 ## Extra Unfinished Works (Order of Progress)
-- [Piano Concerto no.2](PianoConcerto2.md)
-- [Violin Concerto no.2 in G Major](Vlnconcerto2.md)
-- [Piano Concerto no.1 in F# Minor](Pianoconcerto1.md)
-- [Violin Concerto no.1 in G Major](Vlnconcerto1.md)
+- Piano Concerto no.2
+- Violin Concerto no.2 in G Major
+- Piano Concerto no.1 in F# Minor
+- Violin Concerto no.1 in G Major
 - [Viola Concerto in D Major Mvt II: Adagio Sentimentale](ViolaConcertoMv2.md)
-- [Violin Concerto no.3](Vlnconcerto3.md)
-- [Lake Concerto for Trombone](LakeConcertoTrombone.md)
-- [Orchestra Suite no.1 Reverie](SuiteReverie.md)
+- Violin Concerto no.3
+- Lake Concerto for Trombone
+- Orchestra Suite no.1 Reverie
 
 
 

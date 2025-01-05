@@ -3,7 +3,7 @@ layout: default
 title: Over and Under the River Styx
 ---
 
-# Evaporated Solution
+# Over and Under the River Styx
 
 <small>An older more experimental free-form piano piece that helped me play around with unique and interesting rhythmic ideas.</small>
 
